@@ -1,2 +1,2 @@
-A pi-holeblocklist for the Daily Mail and The Sun
+A pi-hole blocklist for the Daily Mail and The Sun
 
